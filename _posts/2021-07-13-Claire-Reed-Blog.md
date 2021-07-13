@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Claire Reed's Blog"
+title: "My Blog"
 date: 2021-07-13
 ---
 
