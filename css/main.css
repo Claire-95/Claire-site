@@ -8,14 +8,17 @@ nav ul, footer ul {
     padding: 0px;
     list-style: none;
     font-weight: bold;
+    text-align: centre;
 }
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
+    text-align: centre;
 }
 a {
     text-decoration: none;
     color: #B345CC;
+    text-align: centre;
 }
 a:hover {
     text-decoration: underline;
